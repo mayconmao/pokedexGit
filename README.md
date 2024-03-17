@@ -16,7 +16,7 @@ A Pokedex foi projetada com responsividade em mente, garantindo uma experiência
 - Vite
 
 ## Como Configurar o Projeto Localmente
-1. Clone o repositório para sua máquina local usando `git clone https://github.com/seuusuario/pokedex.git`
+1. Clone o repositório para sua máquina local usando `git clone https://github.com/seuusuario/pokedexGit.git`
 2. Navegue até o diretório do projeto clonado e instale as dependências com `yarn install`
 3. Inicie o projeto em modo de desenvolvimento com `yarn dev`
 4. Acesse `http://localhost:5173/` no seu navegador para ver a aplicação rodando.
