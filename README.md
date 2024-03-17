@@ -15,32 +15,6 @@ A Pokedex foi projetada com responsividade em mente, garantindo uma experiência
 - MUI
 - Vite
 
-## Estrutura do Projeto
-```
-pokedex/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── PokemonCard/
-│   │   │   └── index.tsx
-│   │   ├── PokemonFavorites/
-│   │   │   └── index.tsx
-│   │   └── FilterBar/
-│   │       └── index.tsx
-│   ├── services/
-│   │   └── index.tsx
-│   ├── pages/
-│   │   └── Home.tsx
-│   ├── themes/
-│   │   └── index.tsx
-│   ├── App.tsx
-│   └── index.tsx
-├── package.json
-└── tsconfig.json
-```
-
-
 ## Como Configurar o Projeto Localmente
 1. Clone o repositório para sua máquina local usando `git clone https://github.com/seuusuario/pokedex.git`
 2. Navegue até o diretório do projeto clonado e instale as dependências com `yarn install`
