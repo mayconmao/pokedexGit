@@ -16,6 +16,7 @@ A Pokedex foi projetada com responsividade em mente, garantindo uma experiência
 - Vite
 
 ## Estrutura do Projeto
+```
 pokedex/
 ├── public/
 │   └── index.html
@@ -37,6 +38,7 @@ pokedex/
 │   └── index.tsx
 ├── package.json
 └── tsconfig.json
+```
 
 
 ## Como Configurar o Projeto Localmente
